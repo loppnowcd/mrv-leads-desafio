@@ -77,3 +77,4 @@ C:\Users\cdlop\source\repos\MRV.Leads\MRV.Leads\obj\Debug\net6.0\refint\MRV.Lead
 C:\Users\cdlop\source\repos\MRV.Leads\MRV.Leads\obj\Debug\net6.0\MRV.Leads.pdb
 C:\Users\cdlop\source\repos\MRV.Leads\MRV.Leads\obj\Debug\net6.0\MRV.Leads.genruntimeconfig.cache
 C:\Users\cdlop\source\repos\MRV.Leads\MRV.Leads\obj\Debug\net6.0\ref\MRV.Leads.dll
+C:\Users\cdlop\source\repos\MRV.Leads\MRV.Leads\obj\Debug\net6.0\MRV.Leads.sourcelink.json

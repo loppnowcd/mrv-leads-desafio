@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MRV.Leads")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a893d28e0e7b63dc63595f263a052ff451113d24")]
 [assembly: System.Reflection.AssemblyProductAttribute("MRV.Leads")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MRV.Leads")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

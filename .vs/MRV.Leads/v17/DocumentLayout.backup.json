@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|c:\\users\\cdlop\\source\\repos\\mrv.leads\\mrv.leads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|solutionrelative:mrv.leads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|c:\\users\\cdlop\\source\\repos\\mrv.leads\\mrv.leads\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|solutionrelative:mrv.leads\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\Migrations\\20250924084728_AddSampleData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MRV.Leads\\Migrations\\20250924084728_AddSampleData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\Migrations\\20250924084508_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MRV.Leads\\Migrations\\20250924084508_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|c:\\users\\cdlop\\source\\repos\\mrv.leads\\mrv.leads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|solutionrelative:mrv.leads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|c:\\users\\cdlop\\source\\repos\\mrv.leads\\mrv.leads\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|c:\\users\\cdlop\\source\\repos\\mrv.leads\\mrv.leads\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|solutionrelative:mrv.leads\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|c:\\users\\cdlop\\source\\repos\\mrv.leads\\mrv.leads\\migrations\\20250924084728_addsampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|solutionrelative:mrv.leads\\migrations\\20250924084728_addsampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|c:\\users\\cdlop\\source\\repos\\mrv.leads\\mrv.leads\\migrations\\20250924084508_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F0E517-010D-44F0-B35E-5D95ED292FB6}|MRV.Leads\\MRV.Leads.csproj|solutionrelative:mrv.leads\\migrations\\20250924084508_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,25 +65,21 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DataSeeder.cs",
               "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\DataSeeder.cs",
               "RelativeDocumentMoniker": "MRV.Leads\\DataSeeder.cs",
               "ToolTip": "C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\DataSeeder.cs",
               "RelativeToolTip": "MRV.Leads\\DataSeeder.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwDgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwHkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T08:48:20.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "20250924084728_AddSampleData.cs",
               "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\Migrations\\20250924084728_AddSampleData.cs",
               "RelativeDocumentMoniker": "MRV.Leads\\Migrations\\20250924084728_AddSampleData.cs",
@@ -91,12 +87,11 @@
               "RelativeToolTip": "MRV.Leads\\Migrations\\20250924084728_AddSampleData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T08:47:28.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T08:47:28.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "20250924084508_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\Migrations\\20250924084508_InitialCreate.cs",
               "RelativeDocumentMoniker": "MRV.Leads\\Migrations\\20250924084508_InitialCreate.cs",
@@ -104,12 +99,11 @@
               "RelativeToolTip": "MRV.Leads\\Migrations\\20250924084508_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T08:45:09.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T08:45:09.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LeadsController.cs",
               "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\LeadsController.cs",
               "RelativeDocumentMoniker": "MRV.Leads\\LeadsController.cs",
@@ -117,12 +111,11 @@
               "RelativeToolTip": "MRV.Leads\\LeadsController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAgwEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T08:44:33.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T08:44:33.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\Program.cs",
               "RelativeDocumentMoniker": "MRV.Leads\\Program.cs",
@@ -130,12 +123,11 @@
               "RelativeToolTip": "MRV.Leads\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T08:44:06.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T08:44:06.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\appsettings.json",
               "RelativeDocumentMoniker": "MRV.Leads\\appsettings.json",
@@ -143,12 +135,11 @@
               "RelativeToolTip": "MRV.Leads\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-24T08:43:40.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T08:43:40.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MRV.Leads\\ApplicationDbContext.cs",
@@ -156,12 +147,11 @@
               "RelativeToolTip": "MRV.Leads\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T08:43:09.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T08:43:09.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Lead.cs",
               "DocumentMoniker": "C:\\Users\\cdlop\\source\\repos\\MRV.Leads\\MRV.Leads\\Lead.cs",
               "RelativeDocumentMoniker": "MRV.Leads\\Lead.cs",
@@ -169,8 +159,11 @@
               "RelativeToolTip": "MRV.Leads\\Lead.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T08:42:31.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T08:42:31.991Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
