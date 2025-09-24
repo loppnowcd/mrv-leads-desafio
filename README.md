@@ -50,7 +50,7 @@ This application allows users to manage service leads through a clean interface 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/loppnowcd/mrv-leads-desafio/
    cd MRV.Leads
    ```
 
@@ -158,7 +158,7 @@ Esta aplicação permite aos usuários gerenciar leads de serviços através de 
 
 1. **Clonar o repositório**
    ```bash
-   git clone <sua-url-do-repo>
+   git clone https://github.com/loppnowcd/mrv-leads-desafio/
    cd MRV.Leads
    ```
 
